@@ -1,0 +1,27 @@
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Gradle files
+/build
+.gradle
+
+# Local configuration file (sdk path, etc)
+/local.properties
+
+# Built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# User-specific configurations
+*.iml
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+
+# OS-specific files
+.DS_Store
+/captures
+.externalNativeBuild

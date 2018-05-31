@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="pressed1">#959ca4</color>
+    <color name="pressed2">#646d79</color>
+
+    <color name="focused1">#959ca4</color>
+    <color name="focused2">#646d79</color>
+
+    <color name="default1">#686e77</color>
+    <color name="default2">#40474f</color>
+
+    <color name="background1">#2D3238</color>
+    <color name="button1">#F35592</color>
+
+    <color name="btn_login">#5E5E5E</color>
+    <color name="btn_email_login">#3498DB</color>
+
+    <color name="actionbar">#1ABC9C</color>
+    <color name="stroke">#00000000</color>
+    <color name="primary_material_light_1">#1abc9c</color>
+    <color name="foreground_material_light">#060404</color>
+    <color name="text_color_primary">#f5f5f5</color>
+    <color name="primary_dark_material_light">#5e5e5e</color>
+    <color name="primary_material_dark_1">#1abc9c</color>
+    <color name="accent_material_light">#80cbc4</color>
+    <color name="primary_material_dark">#1abc9c</color>
+</resources>

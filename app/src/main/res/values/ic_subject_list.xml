@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ic_subject_list">
+        <item>@drawable/ic_subject_briefcase</item>
+        <item>@drawable/ic_subject_car</item>
+        <item>@drawable/ic_subject_charity</item>
+        <item>@drawable/ic_subject_disaster</item>
+        <item>@drawable/ic_subject_house</item>
+        <item>@drawable/ic_subject_illegal</item>
+        <item>@drawable/ic_subject_lawfinance</item>
+        <item>@drawable/ic_subject_leisure</item>
+        <item>@drawable/ic_subject_life</item>
+        <item>@drawable/ic_subject_management</item>
+        <item>@drawable/ic_subject_service</item>
+        <item>@drawable/ic_subject_stroller</item>
+    </array>
+
+</resources>
